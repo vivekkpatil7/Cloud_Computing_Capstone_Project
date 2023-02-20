@@ -44,14 +44,30 @@ Services used -
 
 #### Scope / Future step - next step to increace data sources and make automation
 
-### Project 3 - Modernizating Local resources using AWS IAAS (lift and shift Strategie)
+### Project 3 - Data transformation and data pipe line
+
+------------------------------------------------
+```
+🎯 In this project we have data which is store into blob and we need to transform our data and store into blob storage again
+```
+<img width="500" src="Data Transformation in AZ/img1.jpeg"/>
+Old infra.
+
+Services used -
+- Blob storage
+- Azure Data Factory
+- Azure Data flow
+- Azure Data pipeline
+
+#### Scope / Future step - project is on going at intial stage
+
+### Project 4 - Modernizating Local resources using AWS IAAS (lift and shift Strategie)
 
 #### ***  project is on going at very intial stage (given project is an just concept)*
 ------------------------------------------------
 ```
 🎯 Applicating servicing running on physical or VM Machine on local data center such as mysql,DNS,Tomcat,Nginx,shared storage etc.
-solution - we are going to provide this automation and modernized using aws , scalebale, no upfront cost
-
+solution - we are going to provide this automation and modernized using aws , scalebale, no upfront cost.
 
 ```
 <img width="500" src="raw project/arcold1.png"/>
@@ -64,5 +80,4 @@ Services used -
 - S3
 - Autoscaling
 
-#### Scope / Future step - project is on going at intial stage
-
+#### Scope / Future step - project is on going at intial stage.
