@@ -46,7 +46,7 @@ Services used -
 
 ### Project 3 - Modernizating Local resources using AWS IAAS (lift and shift Strategie)
 
-*project is on going at very intial stage (given project is an just concept)*
+#### ***  project is on going at very intial stage (given project is an just concept)*
 ------------------------------------------------
 ```
 🎯 Applicating servicing running on physical or VM Machine on local data center such as mysql,DNS,Tomcat,Nginx,shared storage etc.
@@ -54,7 +54,8 @@ solution - we are going to provide this automation and modernized using aws , sc
 
 
 ```
-<img width="500" src="S3 to Blob/Cloud Architecture.png"/>
+<img width="500" src="raw project/arcold1.png"/>
+Old infra.
 
 Services used -
 - EC2 Instance
