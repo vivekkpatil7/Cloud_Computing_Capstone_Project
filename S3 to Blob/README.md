@@ -1,25 +1,22 @@
-R### Project 1 -  JSON TO CSV Iin shifting Blob1 to Blob 2 and create matrics
+### Project 2 - S3 TO Blob & Mount Data Bricks
+------------------------------------------------
+```
+🎯 we have business use case  data is comming to the amazon s3 bucket location in amazon S3 location. 
+from external resource suppose data from system generated. we want to do move the data from amazon s3 bucket 
+to blob storage and mount on data bricks.
+
 
 ```
-🎯 we have data in json format which store into blob file and we need to convert this json to json to csv format and store in 
-output folder we will mount owner data bricks to output container perform some basic data cleaning operation and convert intoproper 
-reporting format and finally we will derive business metrics with the help of power bi
-
-```
-
-
-<img width="500" src="Json to databricks/Copy of Cloud Architecture.png"/>
+<img width="500" src="S3 to Blob/Cloud Architecture.png"/>
 
 Services used -
-- S3 Bucket
 - Storage Account
 - container (blob)
 - Azure data factory
 - Data bricks
 - Azure Data pipeline
-- power bi (no an cloud service)
 
-#### Scope / Future step - next step to increace data source and make automation, try to use azure synapse analytics 
+#### Scope / Future step - next step to increace data sources and make automation
 
 Some screenshot of project
  1. S3 FILE
